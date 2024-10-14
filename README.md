@@ -1,4 +1,13 @@
-- Roblox developer, 5 years.
-- I have been into scripting for 2 years now.
-- I am currently leaning into systems, and making free stuff and tutorials.
-- Yes im doin for free.
+• So i have been a scripter for about 4 years. I mailed LUAU (Roblox modified language) and I have also tried some more.
+
+- Yes I will be posting alot about luau code. Some samples. Systems. Etc.
+
+*If you wish to hire me try it out
+discord: v3lvics*
+
+- And yeah I do:
+.py
+.css
+.html
+.lua
+.js
