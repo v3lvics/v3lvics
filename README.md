@@ -1,4 +1,4 @@
-• So i have been a scripter for about 4 years. I mailed LUAU (Roblox modified language) and I have also tried some more.
+• So i have been a scripter for about 4 years. I learned Luau (Roblox modified language) and I have also tried some more.
 
 - Yes I will be posting alot about luau code. Some samples. Systems. Etc.
 
