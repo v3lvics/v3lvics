@@ -5,9 +5,3 @@
 *If you wish to hire me try it out
 discord: v3lvics*
 
-- And yeah I do:
-.py
-.css
-.html
-.lua
-.js
